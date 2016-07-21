@@ -11,7 +11,7 @@ class TestController
      */
     public function test()
     {
-        return "Hello World";
+        return "Hello World!";
     }
 
     /**
